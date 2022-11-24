@@ -1,0 +1,26 @@
+*{
+    font-family: 'Poppins', sans-serif;
+}
+
+#myyes{
+    margin-left: 8%;
+}
+@media screen and (max-width:991px)
+{
+#lg{
+    margin-top: 2%;
+}
+
+
+}
+@media screen and (max-width:991px)
+{
+#sg{
+    margin-top: 2%;
+}
+
+
+}
+.card-group{
+    margin: 20px 20px;
+} 
